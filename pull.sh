@@ -1,4 +1,4 @@
-git pull origin master
+#git pull origin master
 
 cp -fr .mcreator/workspaceBackups ~/Desktop/Teste/mcreator
 
